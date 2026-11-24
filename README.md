@@ -8,6 +8,9 @@
 
 One-click video downloader for TikTok, Instagram and Facebook. Available for Windows and Android.
 
+بدون مواقع تحميل مليانة إعلانات: **VIDEOGO مجاني 100% وبدون إعلانات أو تسجيل.**
+No ad-heavy download sites: **100% free, ad-free, no sign-up.**
+
 ---
 
 ## التحميل / Downloads
