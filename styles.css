@@ -129,10 +129,10 @@ a { color: inherit; }
   font-weight: 700;
   letter-spacing: 0.08em;
 }
-.brand img {
+.brand-mark {
   width: var(--space-xl);
   height: var(--space-xl);
-  border-radius: var(--radius);
+  object-fit: contain;
 }
 .nav-links {
   display: flex;
@@ -353,9 +353,9 @@ h1 {
   gap: var(--space-s);
   text-align: center;
 }
-.device-body img {
-  width: calc(var(--space-3xl) * 1.5);
-  border-radius: var(--radius);
+.device-mark {
+  width: calc(var(--space-3xl) * 2);
+  object-fit: contain;
   filter: drop-shadow(0 0 var(--space-m) rgba(37, 233, 255, 0.25));
 }
 .device-body p {
