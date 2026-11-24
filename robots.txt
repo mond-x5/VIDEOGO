@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mond-x5.github.io/VIDEOGO/sitemap.xml
