@@ -17,7 +17,7 @@ No ad-heavy download sites: **100% free, ad-free, no sign-up.**
 
 | النظام | الملف |
 |--------|-------|
-| ويندوز | [VIDEOGO_1.0.0_x64-setup.exe](https://github.com/MIDOEL8DAR22/VIDEOGO/releases/download/v1.0.0/VIDEOGO_1.0.0_x64-setup.exe) |
+| ويندوز | [VIDEOGO_1.0.0_x64-setup.exe](https://github.com/mond-x5/VIDEOGO/releases/download/v1.0.0/VIDEOGO_1.0.0_x64-setup.exe) |
 | أندرويد | [VIDEOGO-1.0-android.apk](Android/VIDEOGO-1.0-android.apk) |
 
 ---
